@@ -1,0 +1,21 @@
+{
+  "name": "browser-sandbox",
+  "version": "1.0.0",
+  "description": "simple live reload sandbox for me to try out basic html templating",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silivizzle/browser-sandbox.git"
+  },
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiberius",
+  "license": "ISC"
+}
