@@ -1,6 +1,6 @@
 # Browser Sandbox
 
-### Why?
+## Why?
 ---
 Every once in a while, I want to a quick way to spin up a page and try to make a template or component that I can incorporate into another project. This sandbox provides me a live reload environment that can compile [Sass](http://sass-lang.com/) powered by [Browsersync](https://www.browsersync.io/) and [Gulp](http://gulpjs.com/).
 
@@ -8,7 +8,7 @@ Basically, I used the example provided by Browser-Sync to help integrate it with
 
 That's all there is to this.
 
-### How?
+## How?
 ---
 
 ### 1. Install Gulp globally
