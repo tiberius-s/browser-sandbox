@@ -39,6 +39,6 @@ gulp
 5a. ...and to stop serving, press `Ctrl + C` in the same shell you used to start the server
 
 ### Reference
-Find the template I used from Browsersync here[here](https://www.browsersync.io/docs/gulp#gulp-sass-css).
+Find the template I used from Browsersync [here](https://www.browsersync.io/docs/gulp#gulp-sass-css).
 
 -ts
