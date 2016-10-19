@@ -15,27 +15,22 @@ That's all there is to this.
 ```sh
 npm install -g gulp
 ```
-
 2. Clone the repo and change to the project directory
 ```sh
 git clone git@github.com:silivizzle/browser-sandbox.git
 ```
-
 3. Change into the new directory
 ```sh
 cd browser-sandbox
 ```
-
 4. Install the dependencies
 ```
 npm install
 ```
-
 5. Serve
 ```
 gulp
 ```
-
 5a. ...and to stop serving, press `Ctrl + C` in the same shell you used to start the server
 
 ### Reference
