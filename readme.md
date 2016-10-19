@@ -1,7 +1,7 @@
 # Browser Sandbox
 
 ## Why?
----
+
 Every once in a while, I want to a quick way to spin up a page and try to make a template or component that I can incorporate into another project. This sandbox provides me a live reload environment that can compile [Sass](http://sass-lang.com/) powered by [Browsersync](https://www.browsersync.io/) and [Gulp](http://gulpjs.com/).
 
 Basically, I used the example provided by Browser-Sync to help integrate it with Sass as a guide. In a way, I was looking for an offline version of codepen. Goes without saying that if you're looking to use this offline, CDN calls will need to give way to local copies of the libs needed.
@@ -9,7 +9,6 @@ Basically, I used the example provided by Browser-Sync to help integrate it with
 That's all there is to this.
 
 ## How?
----
 
 ### 1. Install Gulp globally
 
