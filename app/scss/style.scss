@@ -1,1 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Nova+Mono');
+
+$font: 'Nova Mono', monospace;
+$font-size: 30px;
+
+.greeting {
+  font-family: $font;
+  font-size: $font-size;
+}
