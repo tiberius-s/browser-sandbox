@@ -7,11 +7,16 @@
     "url": "https://github.com/silivizzle/browser-sandbox.git"
   },
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    // add js deps here
+  },
   "devDependencies": {
     "browser-sync": "^2.17.3",
+    "browserify": "^13.1.0",
     "gulp": "^3.9.1",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^2.3.2",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
