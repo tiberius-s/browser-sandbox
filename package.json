@@ -8,7 +8,7 @@
   },
   "main": "gulpfile.js",
   "dependencies": {
-    // add js deps here
+    "//": "Add your JS dependencies (Angular, JQuery, etc) here"
   },
   "devDependencies": {
     "browser-sync": "^2.17.3",
