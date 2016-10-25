@@ -8,3 +8,5 @@ require('angular');                   //  include the AngularJS library
 var app = angular.module('app', []);  //  Angular code as usual.
 
 */
+
+console.log("Hello world");
